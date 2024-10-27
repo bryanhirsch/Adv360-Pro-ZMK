@@ -117,5 +117,22 @@
 		},
 		"footnotes": {},
 		"type": "UD"
+	},
+	{
+		"names": [
+			"LG(SPACE) &kp a, &kp r, &kp r, &kp a, &kp n, &kp g, &kp e"
+		],
+		"description": "LG(SPACE) &kp a, &kp r, &kp r, &kp a, &kp n, &kp g, &kp e",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
 	}
 ]
