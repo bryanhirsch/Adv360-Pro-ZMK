@@ -2,7 +2,7 @@ macro_displays: macro_displays{
 compatible = "zmk,behavior-macro";
 label = "macro_displays";
 #binding-cells = <0>;
-bindings = <&kp LG(SPACE)>, <&kp d>, <&kp i>, <&kp s>, <&kp p>, <&kp l>, <&kp a>, <&kp y>, <&kp s>;
+bindings = <&kp LG(SPACE)>, <&kp D>, <&kp I>, <&kp S>, <&kp P>, <&kp L>, <&kp A>, <&kp Y>, <&kp S>;
 };
 macro_spotlight: macro_spotlight{
 compatible = "zmk,behavior-macro";
