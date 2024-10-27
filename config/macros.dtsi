@@ -2,7 +2,7 @@ macro_arrange_multiple_displays: macro_arrange_multiple_displays{
 compatible = "zmk,behavior-macro";
 label = "macro_arrange_multiple_displays";
 #binding-cells = <0>;
-bindings = <&kp LG(SPACE)>, <&kp A>, <&kp R>, <&kp R>, <&kp A>, <&kp N>, <&kp G>, <&kp E>, <&kp SPACE>, <&kp M>, <&kp U>, <&kp L>, <&kp T>, <&kp I>, <&kp P>, <&kp L>, <&kp E>, <&kp LG(SPACE)>, <&kp D>, <&kp I>, <&kp S>, <&kp P>, <&kp L>, <&kp A>, <&kp Y>, <&kp S>;
+bindings = <&kp A>, <&kp R>, <&kp R>, <&kp A>, <&kp N>, <&kp G>, <&kp E>, <&kp SPACE>, <&kp M>, <&kp U>, <&kp L>, <&kp T>, <&kp I>, <&kp P>, <&kp L>, <&kp E>, <&kp LG(SPACE)>, <&kp D>, <&kp I>, <&kp S>, <&kp P>, <&kp L>, <&kp A>, <&kp Y>, <&kp S>;
 };
 macro_displays: macro_displays{
 compatible = "zmk,behavior-macro";
